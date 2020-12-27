@@ -1,2 +1,0 @@
-This version has several windows and no music will be played
--> includes comments and unnecessary codes are removed
