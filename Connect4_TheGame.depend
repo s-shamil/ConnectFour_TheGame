@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1463841894 source:g:\connect4_thegame\imain.cpp
+	"iGraphics.h"
+
+1463841894 .h"
+
+1463002198 g:\connect4_thegame\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1464789376 h>
+
+1465063230 source:g:\connect4_thegame - beta\imain.cpp
+	"iGraphics2.h"
+
+1465343360 2.h"
+
+1463002198 g:\connect4_thegame - beta\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1464789376 g:\connect4_thegame - beta\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465064497 source:g:\connect4_thegame v4.2\imain.cpp
+	"iGraphics2.h"
+
+1464789376 g:\connect4_thegame v4.2\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465343360 source:g:\connect four\connect4_thegame - 4.2.1\imain.cpp
+	"iGraphics2.h"
+
+1464789376 g:\connect four\connect4_thegame - 4.2.1\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465343360 source:/media/shamil/D77D40579F90D0F8/All Term Projects/Connect FOUR - The Game/Connect4_TheGame - 4.2.1/iMain.cpp
+	"iGraphics2.h"
+
+1464789376 /media/shamil/D77D40579F90D0F8/All Term Projects/Connect FOUR - The Game/Connect4_TheGame - 4.2.1/iGraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465296560 source:/home/shamil/Downloads/gitting/Connect4_TheGame - 4.2.1-20201227T184127Z-001/Connect4_TheGame - 4.2.1/iMain.cpp
+	"iGraphics2.h"
+
+1464742576 /home/shamil/Downloads/gitting/Connect4_TheGame - 4.2.1-20201227T184127Z-001/Connect4_TheGame - 4.2.1/iGraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+

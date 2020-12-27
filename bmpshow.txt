@@ -1,0 +1,16 @@
+Those who are having problems with using images in their iGraphics project,Siddharta Das sir has modified the iGraphics.h header file for the solution.If you are having problems with using image,then you are suggested not to use iShowBMP or iShowBMP2 functions.You have to use drawTexture function.If want to ignore the background color of your image and replace it with any other color,you can use this function.Suppose you want to use a bitmap image named "bird.bmp" which has a background color of rgb value (100,100,100) and you want to make the background white(rgb value of (255,255,255)) you should write some codes as follows
+texture birdtexture;
+void iTextureInit()
+{
+birdtexture.Create("bird.bmp",1,100,100,100,255,255,255);
+}
+In iDraw function you have to write following codes to show the image
+drawTexture(x co ordinate of the picture,y co ordinate of the picture,birdtexture);
+If you don't want that the background color of the picture to be ignored then you should not any of the parameters after "bird.bmp" in void iTextureInit() function.So in this case you have to write only
+voidiTextureInit
+{
+birdtexture.Create("bird.bmp");
+}
+Other things would remain exactly same.
+(NOTE: If the any compilation error is shown with the new header file,please use #include<gl/glut.h> in stead of #include<glut.h> and #include<gl/glaux.h> in stead of #include<glaux.h>)
+For further problem,please contact with your project advisers.

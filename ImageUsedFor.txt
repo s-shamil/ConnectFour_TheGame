@@ -1,0 +1,7 @@
+back2.bmp - PLAY Window background
+bricks.bmp - how to play window
+mainMenuback.bmp - main menu background
+GameOver1.bmp - player 1 wins message
+GameOver2.bmp - player 2 wins message
+GameOver3.bmp - Match draw message
+blue.bmp (texture name - wood) - wall of play window alternavite to the boxes
